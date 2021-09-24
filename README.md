@@ -4,7 +4,7 @@
 
 ### A
 
-#### [Amazing Cultivation Simulator](/Amazing Cultivation Simulator v1.05-P2P)
+#### [Amazing Cultivation Simulator](/Amazing Cultivation Simulator.md)
 
 #### [Ancestors.The.Humankind.Odyssey](/Ancestors.The.Humankind.Odyssey-CODEX)
 
