@@ -4,7 +4,7 @@
 
 ### A
 
-#### [Amazing Cultivation Simulator](Amazing Cultivation Simulator.md)
+#### [Amazing Cultivation Simulator](/Amazing%20Cultivation%20Simulator.md)
 
 #### [Ancestors.The.Humankind.Odyssey](/Amazing Cultivation Simulator.md)
 
