@@ -4,7 +4,7 @@
 
 ### A
 
-#### [Amazing Cultivation Simulator](https://store.steampowered.com/app/955900/Amazing_Cultivation_Simulator/?l=english&curator_clanid=29227165)
+#### [Amazing Cultivation Simulator](Amazing Cultivation Simulator.md)
 
 #### [Ancestors.The.Humankind.Odyssey](/Amazing Cultivation Simulator.md)
 
