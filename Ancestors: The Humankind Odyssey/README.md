@@ -1,21 +1,22 @@
-# Ancestors: The Humankind Odyssey
+# Amazing Cultivation Simulator
 
-![header](/Ancestors:%20The%20Humankind%20Odyssey/image/header.jpg)
+![](C:\Users\liaox\Desktop\header.jpg)
 
-Survive your evolution in Neogene Africa starting 10 million years ago. Ancestors: The Humankind Odyssey is a third-person open world survival game where you Explore, Expand, and Evolve to advance your clan to the next generation in the exciting new adventure from Panache Digital Games.
+Rise up in a search for immortality in this strategy sim and management game based on Chinese mythology. Rebuild your sect and train new disciples through the path of cultivation. Research magic and gather mystical artifacts, face ancient dangers and other sects in your path to spiritual ascension.
 
-从1000万年前开始，在新近纪非洲生存下来。《祖先：人类奥德赛》是一款第三人称开放世界生存游戏，您可以在其中探索、扩展和进化，在华丽的数字游戏带来的激动人心的新冒险中，将您的氏族提升到下一代。
+在这个基于中国神话的战略模拟和管理游戏中，你将为不朽而奋起。重建你的门派，通过修炼之路培养新弟子。研究魔法，收集神秘物品，面对远古的危险和其他教派，在你的灵性提升之路上。
 
-- ###### RELEASE DATE: 23 Sep, 2021
+- ###### RELEASE DATE: 25 Nov, 2020
 
-- ###### STORE PAGE: [https://store.steampowered.com/app/536270/Ancestors_The_Humankind_Odyssey/)
+- ###### STORE PAGE: [SteamStore](https://store.steampowered.com/app/955900/Amazing_Cultivation_Simulator/?l=english&curator_clanid=29227165)
 
 - ###### DEVELOPER: [GSQ Games](https://store.steampowered.com/developer/gameragame?snr=1_5_9__2000)
 
 - ###### PUBLISHER: [Gamera Game](https://store.steampowered.com/publisher/gameragame?snr=1_5_9__2000)
 
-*Ancestors The Humankind Odyssey Official Soundtrack Bundle-GOG*
+*Amazing Cultivation Simulator Immortal Tales of WuDang v1.209-GOG*
 
-*SIZE: 8.88 GB*
+*SIZE: 1.02 GB*
 
 [Ancestors The Humankind Odyssey Official Soundtrack Bundle-GOG.torrent](magnet:?xt=urn:btih:5606479D0F8A01CE1C6FF7BF2B82F6A8E3D87630&dn=Ancestors_The_Humankind_Odyssey_1.4.1_%2842805%29_win_gog)
+
