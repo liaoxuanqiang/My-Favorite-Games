@@ -6,7 +6,7 @@
 
 #### [Amazing Cultivation Simulator](/Amazing%20Cultivation%20Simulator/README.md)
 
-#### [Ancestors.The.Humankind.Odyssey](/Amazing Cultivation Simulator.md)
+#### [Ancestors.The.Humankind.Odyssey](/Ancestors:%20The%20Humankind%20Odyssey/README.md)
 
 #### [Assassins.Creed.Valhalla](/Assassins.Creed.Valhalla.MULTi14-ElAmigos)
 
