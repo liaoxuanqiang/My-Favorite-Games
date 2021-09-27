@@ -10,7 +10,7 @@ Survive your evolution in Neogene Africa starting 10 million years ago. Ancestor
 
 - ###### STORE PAGE: [Steam Page](https://store.steampowered.com/app/1641450/Listen_to_the_Wind/?curator_clanid=33788459)
 
-- ###### DEVELOPER: [Papertiger Studio](https://store.steampowered.com/search/?developer=Papertiger Studio&snr=1_5_9__2000)
+- ###### DEVELOPER: [GSQ Games](https://store.steampowered.com/developer/gameragame?snr=1_5_9__2000)
 
 - ###### PUBLISHER: [Gamera Game](https://store.steampowered.com/publisher/gameragame?snr=1_5_9__2000)
 
