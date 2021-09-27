@@ -1,6 +1,6 @@
 # Ancestors: The Humankind Odyssey
 
-![header](C:\Users\liaox\Desktop\header.jpg)
+![header](/Ancestors:%20The%20Humankind%20Odyssey/image/header.jpg)
 
 Survive your evolution in Neogene Africa starting 10 million years ago. Ancestors: The Humankind Odyssey is a third-person open world survival game where you Explore, Expand, and Evolve to advance your clan to the next generation in the exciting new adventure from Panache Digital Games.
 
