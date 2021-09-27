@@ -19,4 +19,6 @@ Rise up in a search for immortality in this strategy sim and management game bas
 *SIZE: 1.02 GB*
 
 [Ancestors The Humankind Odyssey Official Soundtrack Bundle-GOG.torrent](magnet:?xt=urn:btih:5606479D0F8A01CE1C6FF7BF2B82F6A8E3D87630&dn=Ancestors_The_Humankind_Odyssey_1.4.1_%2842805%29_win_gog)
-
+```
+magnet:?xt=urn:btih:5606479D0F8A01CE1C6FF7BF2B82F6A8E3D87630&dn=Ancestors_The_Humankind_Odyssey_1.4.1_%2842805%29_win_gog
+```
