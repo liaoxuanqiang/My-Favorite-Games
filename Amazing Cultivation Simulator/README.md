@@ -1,6 +1,6 @@
 # Amazing Cultivation Simulator
 
-![](/image/header.jpg)
+![](/Amazing Cultivation Simulator/image/header.jpg)
 
 Rise up in a search for immortality in this strategy sim and management game based on Chinese mythology. Rebuild your sect and train new disciples through the path of cultivation. Research magic and gather mystical artifacts, face ancient dangers and other sects in your path to spiritual ascension.
 
