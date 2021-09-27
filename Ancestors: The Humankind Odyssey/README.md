@@ -14,7 +14,8 @@ Survive your evolution in Neogene Africa starting 10 million years ago. Ancestor
 
 - ###### PUBLISHER: [Gamera Game](https://store.steampowered.com/publisher/gameragame?snr=1_5_9__2000)
 
-Ancestors The Humankind Odyssey Official Soundtrack Bundle-GOG
+*Ancestors The Humankind Odyssey Official Soundtrack Bundle-GOG*
 
-SIZE: 8.88 GB
+*SIZE: 8.88 GB*
 
+[Ancestors The Humankind Odyssey Official Soundtrack Bundle-GOG.torrent](magnet:?xt=urn:btih:5606479D0F8A01CE1C6FF7BF2B82F6A8E3D87630&dn=Ancestors_The_Humankind_Odyssey_1.4.1_%2842805%29_win_gog)
