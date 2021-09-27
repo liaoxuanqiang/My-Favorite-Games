@@ -8,7 +8,7 @@ Survive your evolution in Neogene Africa starting 10 million years ago. Ancestor
 
 - ###### RELEASE DATE: 23 Sep, 2021
 
-- ###### STORE PAGE: [Steam Page](https://store.steampowered.com/app/1641450/Listen_to_the_Wind/?curator_clanid=33788459)
+- ###### STORE PAGE: [https://store.steampowered.com/app/536270/Ancestors_The_Humankind_Odyssey/)
 
 - ###### DEVELOPER: [GSQ Games](https://store.steampowered.com/developer/gameragame?snr=1_5_9__2000)
 
